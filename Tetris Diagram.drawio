@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" pages="2">
     <diagram id="hHs0HOjm9q-G5FyCQTJx" name="C#">
-        <mxGraphModel dx="1728" dy="1119" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="2175" dy="1023" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="oFc0UeMiEk2cHzDffj0U-0"/>
                 <mxCell id="oFc0UeMiEk2cHzDffj0U-1" parent="oFc0UeMiEk2cHzDffj0U-0"/>
@@ -107,7 +107,7 @@
                         <mxPoint x="-261" y="336" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="D8vvIj0ZNGi3eonKsfhN-0" value="Crédits" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=12;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="oFc0UeMiEk2cHzDffj0U-1" vertex="1">
+                <mxCell id="D8vvIj0ZNGi3eonKsfhN-0" value="Credits" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=12;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="oFc0UeMiEk2cHzDffj0U-1" vertex="1">
                     <mxGeometry x="408" y="155" width="166" height="139" as="geometry"/>
                 </mxCell>
                 <mxCell id="D8vvIj0ZNGi3eonKsfhN-1" value="- link : Link&#10;- mention : Mention&#10;- names : Names&#10;- technologies : Technology" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="D8vvIj0ZNGi3eonKsfhN-0" vertex="1">

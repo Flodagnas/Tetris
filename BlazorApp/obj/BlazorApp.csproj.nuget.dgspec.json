@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Tetris\\BlazorApp\\BlazorApp.csproj": {}
+    "D:\\Ynov\\csharp\\Tetris\\BlazorApp\\BlazorApp.csproj": {}
   },
   "projects": {
-    "C:\\Tetris\\BlazorApp\\BlazorApp.csproj": {
+    "D:\\Ynov\\csharp\\Tetris\\BlazorApp\\BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Tetris\\BlazorApp\\BlazorApp.csproj",
+        "projectUniqueName": "D:\\Ynov\\csharp\\Tetris\\BlazorApp\\BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "C:\\Tetris\\BlazorApp\\BlazorApp.csproj",
-        "packagesPath": "C:\\Users\\dagna\\.nuget\\packages\\",
-        "outputPath": "C:\\Tetris\\BlazorApp\\obj\\",
+        "projectPath": "D:\\Ynov\\csharp\\Tetris\\BlazorApp\\BlazorApp.csproj",
+        "packagesPath": "C:\\Users\\mathl\\.nuget\\packages\\",
+        "outputPath": "D:\\Ynov\\csharp\\Tetris\\BlazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dagna\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\mathl\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
