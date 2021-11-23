@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\Ynov\\csharp\\Tetris\\BlazorApp\\BlazorApp.csproj",
+  "FilePath": "c:\\Tetris\\BlazorApp\\BlazorApp.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -12,18 +12,29 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+<<<<<<< HEAD
         "HashCode": -891376953,
         "Kind": "Components.Component",
         "Name": "BlazorApp.Pages.FetchData",
+=======
+        "HashCode": 1514081592,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Pages.Menu",
+>>>>>>> Florian
         "AssemblyName": "BlazorApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
+<<<<<<< HEAD
             "TagName": "FetchData"
+=======
+            "TagName": "Menu"
+>>>>>>> Florian
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
+<<<<<<< HEAD
           "Common.TypeName": "BlazorApp.Pages.FetchData"
         }
       },
@@ -31,32 +42,60 @@
         "HashCode": 77442737,
         "Kind": "Components.Component",
         "Name": "BlazorApp.Pages.FetchData",
+=======
+          "Common.TypeName": "BlazorApp.Pages.Menu"
+        }
+      },
+      {
+        "HashCode": 958317565,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Pages.Menu",
+>>>>>>> Florian
         "AssemblyName": "BlazorApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
+<<<<<<< HEAD
             "TagName": "BlazorApp.Pages.FetchData"
+=======
+            "TagName": "BlazorApp.Pages.Menu"
+>>>>>>> Florian
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
+<<<<<<< HEAD
           "Common.TypeName": "BlazorApp.Pages.FetchData",
+=======
+          "Common.TypeName": "BlazorApp.Pages.Menu",
+>>>>>>> Florian
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
+<<<<<<< HEAD
         "HashCode": 60435455,
         "Kind": "Components.Component",
         "Name": "BlazorApp.Pages.Counter",
+=======
+        "HashCode": -1545906825,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Pages.Option",
+>>>>>>> Florian
         "AssemblyName": "BlazorApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
+<<<<<<< HEAD
             "TagName": "Counter"
+=======
+            "TagName": "Option"
+>>>>>>> Florian
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
+<<<<<<< HEAD
           "Common.TypeName": "BlazorApp.Pages.Counter"
         }
       },
@@ -64,82 +103,99 @@
         "HashCode": 1112980309,
         "Kind": "Components.Component",
         "Name": "BlazorApp.Pages.Counter",
+=======
+          "Common.TypeName": "BlazorApp.Pages.Option"
+        }
+      },
+      {
+        "HashCode": 340774517,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Pages.Option",
+>>>>>>> Florian
         "AssemblyName": "BlazorApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
+<<<<<<< HEAD
             "TagName": "BlazorApp.Pages.Counter"
+=======
+            "TagName": "BlazorApp.Pages.Option"
+>>>>>>> Florian
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
+<<<<<<< HEAD
           "Common.TypeName": "BlazorApp.Pages.Counter",
+=======
+          "Common.TypeName": "BlazorApp.Pages.Option",
+>>>>>>> Florian
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -1959485522,
+        "HashCode": -1012516758,
         "Kind": "Components.Component",
-        "Name": "BlazorApp.Pages.Index",
+        "Name": "BlazorApp.Pages.Game",
         "AssemblyName": "BlazorApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "Game"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.Pages.Index"
+          "Common.TypeName": "BlazorApp.Pages.Game"
         }
       },
       {
-        "HashCode": 53475371,
+        "HashCode": 998485918,
         "Kind": "Components.Component",
-        "Name": "BlazorApp.Pages.Index",
+        "Name": "BlazorApp.Pages.Game",
         "AssemblyName": "BlazorApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorApp.Pages.Index"
+            "TagName": "BlazorApp.Pages.Game"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.Pages.Index",
+          "Common.TypeName": "BlazorApp.Pages.Game",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -224849593,
+        "HashCode": 882331382,
         "Kind": "Components.Component",
-        "Name": "BlazorApp.App",
+        "Name": "BlazorApp.Pages.Crédits",
         "AssemblyName": "BlazorApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "Crédits"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.App"
+          "Common.TypeName": "BlazorApp.Pages.Crédits"
         }
       },
       {
-        "HashCode": -1077845890,
+        "HashCode": -322548125,
         "Kind": "Components.Component",
-        "Name": "BlazorApp.App",
+        "Name": "BlazorApp.Pages.Crédits",
         "AssemblyName": "BlazorApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorApp.App"
+            "TagName": "BlazorApp.Pages.Crédits"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.App",
+          "Common.TypeName": "BlazorApp.Pages.Crédits",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -326,6 +382,75 @@
         }
       },
       {
+<<<<<<< HEAD
+=======
+        "HashCode": -1613854634,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Shared.NavMenu",
+        "AssemblyName": "BlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorApp.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": -1179575551,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.Shared.NavMenu",
+        "AssemblyName": "BlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorApp.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorApp.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -224849593,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.App",
+        "AssemblyName": "BlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorApp.App"
+        }
+      },
+      {
+        "HashCode": -1077845890,
+        "Kind": "Components.Component",
+        "Name": "BlazorApp.App",
+        "AssemblyName": "BlazorApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorApp.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorApp.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+>>>>>>> Florian
         "HashCode": 1065816939,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
@@ -16612,59 +16737,64 @@
   "RootNamespace": "BlazorApp",
   "Documents": [
     {
-      "FilePath": "d:\\Ynov\\csharp\\Tetris\\BlazorApp\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "d:\\Ynov\\csharp\\Tetris\\BlazorApp\\Shared\\MainLayout.razor",
+      "FilePath": "c:\\Tetris\\BlazorApp\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\Ynov\\csharp\\Tetris\\BlazorApp\\Pages\\_Host.cshtml",
-      "TargetPath": "Pages\\_Host.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Ynov\\csharp\\Tetris\\BlazorApp\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
+      "FilePath": "c:\\Tetris\\BlazorApp\\Pages\\Option.razor",
+      "TargetPath": "Pages\\Option.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\Ynov\\csharp\\Tetris\\BlazorApp\\App.razor",
-      "TargetPath": "App.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "d:\\Ynov\\csharp\\Tetris\\BlazorApp\\Pages\\Index.razor",
-      "TargetPath": "Pages\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "d:\\Ynov\\csharp\\Tetris\\BlazorApp\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Ynov\\csharp\\Tetris\\BlazorApp\\Shared\\NavMenu.razor",
+      "FilePath": "c:\\Tetris\\BlazorApp\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\Ynov\\csharp\\Tetris\\BlazorApp\\Pages\\_Layout.cshtml",
+      "FilePath": "c:\\Tetris\\BlazorApp\\Pages\\Game.razor",
+      "TargetPath": "Pages\\Game.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Tetris\\BlazorApp\\App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Tetris\\BlazorApp\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Tetris\\BlazorApp\\Pages\\Crédits.razor",
+      "TargetPath": "Pages\\Crédits.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Tetris\\BlazorApp\\Pages\\Menu.razor",
+      "TargetPath": "Pages\\Menu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Tetris\\BlazorApp\\Pages\\_Host.cshtml",
+      "TargetPath": "Pages\\_Host.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Tetris\\BlazorApp\\Shared\\SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Tetris\\BlazorApp\\Pages\\_Layout.cshtml",
       "TargetPath": "Pages\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Ynov\\csharp\\Tetris\\BlazorApp\\_Imports.razor",
+      "FilePath": "c:\\Tetris\\BlazorApp\\_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
-    },
-    {
-      "FilePath": "d:\\Ynov\\csharp\\Tetris\\BlazorApp\\Shared\\SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
-      "FileKind": "component"
     }
   ],
   "SerializationFormat": "0.2"
