@@ -1,19 +1,20 @@
 namespace BlazorApp.Data{
-    //Game property
-    public class BoardProp{
-        public BoardProp(int nWidth, int nHeight){
-            this.nWidth = nWidth;
-            this.nHeight = nHeight;
+    public class Setting{
+        public Setting(int Width, int Height){
+            this.Width = Width;
+            this.Height = Height;
         }
 
-        public int nHeight{
+        public int Height{
             private set;
             get;
         }
 
-        public int nWidth{
+        public int Width{
             private set;
             get;
         }
+        
+        public int Vitesse { get; set; }
     }
 }
