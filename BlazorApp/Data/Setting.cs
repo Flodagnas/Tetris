@@ -1,20 +1,14 @@
-namespace BlazorApp.Data{
-    public class Setting{
-        public Setting(int Width, int Height){
-            this.Width = Width;
-            this.Height = Height;
-        }
+namespace BlazorApp.Data;
 
-        public int Height{
-            private set;
-            get;
-        }
+public class Setting{
+    
+    public int Vitesse { get; set; }
 
-        public int Width{
-            private set;
-            get;
+    public int Speed(int Vitesse){
+        if (Vitesse == 1)
+        {
+            return Vitesse;
         }
-        
-        public int Vitesse { get; set; }
+        return 0;
     }
 }
