@@ -25,3 +25,4 @@ C:\Tetris\BlazorApp\obj\Debug\net6.0\BlazorApp.dll
 C:\Tetris\BlazorApp\obj\Debug\net6.0\ref\BlazorApp.dll
 C:\Tetris\BlazorApp\obj\Debug\net6.0\BlazorApp.pdb
 C:\Tetris\BlazorApp\obj\Debug\net6.0\BlazorApp.genruntimeconfig.cache
+C:\Tetris\BlazorApp\obj\Debug\net6.0\scopedcss\Pages\Game.razor.rz.scp.css
