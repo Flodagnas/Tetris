@@ -1,0 +1,28 @@
+@namespace BlazorApp
+@page "/game"
+
+
+<PageTitle>Game</PageTitle>
+
+<h1>Game</h1>
+
+<div class="interface">
+        @{
+                var CreationGrille = new CreaGrille();
+        }
+        <div id="grille">
+                @for (int k = 0; k < CreationGrille.Hauteur; k++){
+                        <div id="case">
+                                @for (int l = 0; l < CreationGrille.Largeur; l++){
+                                        <td id="test"></td>
+                                }       
+                        </div>
+                }
+        </div>
+</div>
+<div class="boutons">
+        <a href="">
+                <input type="button" class="bouton" value="Retour"/>
+        </a>       
+</div>
+
