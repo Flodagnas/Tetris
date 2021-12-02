@@ -1,7 +1,7 @@
 @namespace BlazorApp
 @page "/game"
 @code {
-        Background Background = new Background();
+        CreaGrille CreaGrille = new CreaGrille();
 }
 
 <PageTitle>Game</PageTitle>
@@ -10,20 +10,17 @@
 
 <div class="interface">
         <div id="grille">
-                @for (int i = 0; i < Background.Hauteur; i++){
-                        <tr>
-                                <div id="case">
-                                        @for (int j = 0; j < Background.Largeur; j++){
-                                         
-                                        }       
-                                </div>           
-                        </tr>
+                @for (int i = 0; i < CreaGrille.Hauteur; i++){
+                        <div id="case">
+                                @for (int j = 0; j < CreaGrille.Largeur; j++){
+
+                                }       
+                        </div>
                 }
         </div>
 </div>
 <br>
 <div class="boutons">
-        <input type="button" class="bouton" value="Lancer la partie"/>
         <a href="">
                 <input type="button" class="bouton" value="Retour"/>
         </a>       

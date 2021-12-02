@@ -12,8 +12,8 @@ namespace BlazorApp{
     {
         public static void Main(string[] args)
         {
-            var Background = new Background();
-            List<List<int>> testGrille = Background.CreationGrille(10, 20);
+            var CreaGrille = new CreaGrille();
+            List<List<int>> CreaGrilleTest = CreaGrille.CreationGrille(10, 20);
             CreateHostBuilder(args).Build().Run();
 
         }

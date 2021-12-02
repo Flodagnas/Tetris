@@ -1,15 +1,7 @@
-#grille[b-4287ovot8c] {
-    display: flex;
-    flex-wrap: wrap;
-    background-color: rgb(36, 0, 165);
-    height: 100%;
-    width: 100%;
-}
-
 #case[b-4287ovot8c] {
-    width: 100%;
-    height: 100%;
-    border: 1px solid;
+    width: 25px;
+    height: 25px;
+    border: 2px solid;
     border-color: rgb(8, 149, 243);
 }
 
