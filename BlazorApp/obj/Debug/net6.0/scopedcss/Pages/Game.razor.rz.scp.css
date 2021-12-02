@@ -1,0 +1,10 @@
+#case[b-4287ovot8c] {
+    width: 25px;
+    height: 25px;
+    border: 2px solid;
+    border-color: rgb(8, 149, 243);
+}
+
+.boutons[b-4287ovot8c]{
+    background-position: bottom;
+}
