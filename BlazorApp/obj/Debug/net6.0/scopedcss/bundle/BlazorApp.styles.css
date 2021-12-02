@@ -1,3 +1,30 @@
+/* _content/BlazorApp/Pages/Game.razor.rz.scp.css */
+.boutons[b-4287ovot8c]{
+    background-position: bottom;
+}
+
+#test[b-4287ovot8c]{
+    width: 23px;
+    height: 23px;
+    border: 1px solid;
+    border-color: rgb(8, 149, 243);
+}
+#grille[b-4287ovot8c]{
+    background-color: rgba(0, 0, 0, 0.13);
+    width: 230px;
+}
+/* _content/BlazorApp/Pages/Option.razor.rz.scp.css */
+#vitesse[b-guwwh684ar]{
+    float: left;
+}
+
+#taille[b-guwwh684ar]{
+    float: right;
+}
+
+h2[b-guwwh684ar]{
+    position: center;
+}
 /* _content/BlazorApp/Shared/MainLayout.razor.rz.scp.css */
 .page[b-3dsd3z3yec] {
     position: relative;
@@ -7,10 +34,6 @@
 
 main[b-3dsd3z3yec] {
     flex: 1;
-}
-
-.sidebar[b-3dsd3z3yec] {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
 }
 
 .top-row[b-3dsd3z3yec] {
@@ -114,12 +137,12 @@ main[b-3dsd3z3yec] {
 
 .nav-item[b-7cxxmz0cwl]  a.active {
     background-color: rgba(255,255,255,0.25);
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 .nav-item[b-7cxxmz0cwl]  a:hover {
     background-color: rgba(255,255,255,0.1);
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 @media (min-width: 641px) {
