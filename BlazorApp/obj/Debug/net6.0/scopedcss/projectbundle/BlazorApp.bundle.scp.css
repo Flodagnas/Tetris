@@ -13,6 +13,18 @@
     background-color: rgba(0, 0, 0, 0.13);
     width: 230px;
 }
+/* _content/BlazorApp/Pages/Option.razor.rz.scp.css */
+#vitesse[b-guwwh684ar]{
+    float: left;
+}
+
+#taille[b-guwwh684ar]{
+    float: right;
+}
+
+h2[b-guwwh684ar]{
+    position: center;
+}
 /* _content/BlazorApp/Shared/MainLayout.razor.rz.scp.css */
 .page[b-3dsd3z3yec] {
     position: relative;
