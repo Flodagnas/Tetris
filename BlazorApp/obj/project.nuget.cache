@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kGQP8SV67gSb+VRc4ZlUy5A0lveKMOMxcJv4n/qfBFcDp3XWxNPOLzXZjPbIKstWUr+UB3IkdJ4qQ1xlR2c1KQ==",
+  "dgSpecHash": "h7uI3gu11GTxmaxuHeiUmh5gvKmx2e7H/HFprhAsBzdi/r18RyC4csVC/IXqvAX6lfG5kg9uozyY77jB+Uom+g==",
   "success": true,
-  "projectFilePath": "D:\\Ynov\\csharp\\Tetris\\BlazorApp\\BlazorApp.csproj",
+  "projectFilePath": "C:\\Users\\mathi\\csharpTaf\\Tetris\\BlazorApp\\BlazorApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
