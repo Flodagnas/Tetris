@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mathi\\.nuget\\packages\\": {}
+    "C:\\Users\\dagna\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathi\\csharpTaf\\Tetris\\BlazorApp\\BlazorApp.csproj",
+      "projectUniqueName": "C:\\Tetris\\BlazorApp\\BlazorApp.csproj",
       "projectName": "BlazorApp",
-      "projectPath": "C:\\Users\\mathi\\csharpTaf\\Tetris\\BlazorApp\\BlazorApp.csproj",
-      "packagesPath": "C:\\Users\\mathi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mathi\\csharpTaf\\Tetris\\BlazorApp\\obj\\",
+      "projectPath": "C:\\Tetris\\BlazorApp\\BlazorApp.csproj",
+      "packagesPath": "C:\\Users\\dagna\\.nuget\\packages\\",
+      "outputPath": "C:\\Tetris\\BlazorApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mathi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\dagna\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
