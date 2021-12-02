@@ -1,0 +1,10 @@
+#case {
+    width: 25px;
+    height: 25px;
+    border: 2px solid;
+    border-color: rgb(8, 149, 243);
+}
+
+.boutons{
+    background-position: bottom;
+}
