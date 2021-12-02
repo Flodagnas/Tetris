@@ -50,18 +50,21 @@ Et voila, vous pouvez maintenant une fois prêt cliquer sur "Jouer" pour lancer 
 
 ## Les détails de notre code : <a id="detail"></a>
 
-Notre code se compose en 3 parties : la partie html, la partie css, et la partie C#. Les voici expliquées avec plus de détails :
+Notre code se compose en 3 parties : la partie html/razor, la partie css, et la partie C#. Les voici expliquées avec plus de détails :
 
-----------------------------------vas y flo on croit en toi-----------------------------------------------------
+La partie HTML/RAZOR ce trouve dans le dossier "/Pages" dans le dossier "/BlazorApp".     
+Ici, nous pouvons trouver les fichier ".razor" qui sont les pages utilisées pour notre projet.
 
+La seconde partie, qui est le CSS, ce trouve au même emplacement que les fichier ".razor"
 
+Enfin, la partie C# ce trouve à la racine du dossier "/BlazorApp". C'est ici qu'il y a tous les scripts utilisées dans ce projet
 
 
 ## La répartition du travail entre nous : <a id="reparti"></a>
 
 Grille : Florian
 
-Musique : Florian
+Musique (BONUS) : Florian
 
 CSS : Florian et Mathias
 
