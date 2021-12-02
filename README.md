@@ -45,7 +45,7 @@ Ainsi, si vous cliquer sur crédits, vous tomberez sur les informations suivante
 ![image](https://cdn.discordapp.com/attachments/408320873876160522/915990453281763458/unknown.png)
 
 Et voila, vous pouvez maintenant une fois prêt cliquer sur "Jouer" pour lancer une partie!
-![image](https://cdn.discordapp.com/attachments/408320873876160522/839033994502471710/unknown.png)
+![image](https://cdn.discordapp.com/attachments/408320873876160522/915994840762843136/unknown.png)
 
 
 ## Les détails de notre code : <a id="detail"></a>
