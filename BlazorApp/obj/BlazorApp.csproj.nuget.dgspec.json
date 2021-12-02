@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ynov\\csharp\\Tetris\\BlazorApp\\BlazorApp.csproj": {}
+    "C:\\Users\\mathi\\csharpTaf\\Tetris\\BlazorApp\\BlazorApp.csproj": {}
   },
   "projects": {
-    "D:\\Ynov\\csharp\\Tetris\\BlazorApp\\BlazorApp.csproj": {
+    "C:\\Users\\mathi\\csharpTaf\\Tetris\\BlazorApp\\BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ynov\\csharp\\Tetris\\BlazorApp\\BlazorApp.csproj",
+        "projectUniqueName": "C:\\Users\\mathi\\csharpTaf\\Tetris\\BlazorApp\\BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "D:\\Ynov\\csharp\\Tetris\\BlazorApp\\BlazorApp.csproj",
-        "packagesPath": "C:\\Users\\mathl\\.nuget\\packages\\",
-        "outputPath": "D:\\Ynov\\csharp\\Tetris\\BlazorApp\\obj\\",
+        "projectPath": "C:\\Users\\mathi\\csharpTaf\\Tetris\\BlazorApp\\BlazorApp.csproj",
+        "packagesPath": "C:\\Users\\mathi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mathi\\csharpTaf\\Tetris\\BlazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mathl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\mathi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
