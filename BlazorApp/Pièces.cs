@@ -14,7 +14,7 @@ namespace BlazorApp {
 
         public static Piece[] TypePiece;
 
-        public void ListPiece(){
+        public void ListPiece() =>
             // Liste de toutes les pièces dans tous les sens différents
 
             TypePiece = new Piece[] {
@@ -191,8 +191,7 @@ namespace BlazorApp {
                         {1,1},
                         {0,1}
                     }
-                },                
+                },
             };
-        }
     }    
 }
