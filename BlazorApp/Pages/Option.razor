@@ -1,14 +1,42 @@
-﻿@page "/option"
-@using BlazorApp.Data
-@inject Setting Setting
+﻿@namespace BlazorApp
+@page "/option"
 
 <PageTitle>Options</PageTitle>
 
 <h1>Options</h1>
 
-<h3>Choix des options</h3>
+<h2>Choix des options</h2>
+<div>
+        <section id="vitesse">
+                <h4>Choix vitesse</h4>
+                <input type="button" class="bouton"value="Slow"/>
+                <input type="button" class="bouton"value="Normal"/>
+                <input type="button" class="bouton"value="Fast"/>
+        </section>
+        <br>
+        <section id="taille">
+                <h4>Choix taille</h4>
+                <select name="Largeur">
+                        <option value=""></option>
+                        <option value="10">10</option>
+                        <option value="15">15</option>
+                        <option value="20">20</option>
+                        <option value="25">25</option>
+                        <option value="30">30</option>
+                </select>
+                <select name="Hauteur">
+                        <option value=""></option>
+                        <option value="10">10</option>
+                        <option value="15">15</option>
+                        <option value="20">20</option>
+                        <option value="25">25</option>
+                        <option value="30">30</option>
+                </select>
+        </section>       
+</div>
 
 
+<br>
 <a href="">
         <input type="button" class="bouton"value="Retour"/>
 </a>
