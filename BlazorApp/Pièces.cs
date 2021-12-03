@@ -16,7 +16,8 @@ namespace BlazorApp {
 
         public void ListPiece() =>
             // Liste de toutes les pièces dans tous les sens différents
-
+            // Aider par certains groupe de la classe
+            
             TypePiece = new Piece[] {
                 // le "Carré"
                 new Piece {
