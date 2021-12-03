@@ -10,7 +10,7 @@ namespace BlazorApp {
 
     }
 
-    public class BlocksShape {
+    public class Block {
 
         public static Piece[] TypePiece;
 
@@ -29,7 +29,7 @@ namespace BlazorApp {
                     },
                 },
 
-                // le "Barre"
+                // la "Barre"
                 new Piece {
                     Largeur = 4,
                     Hauteur = 1,
