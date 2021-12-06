@@ -11,7 +11,7 @@ Le lien du github de notre projet : https://github.com/Flodagnas/Tetris/tree/mai
 3) [Son utilisation](#utilisation)
 4) [Les détails de notre code](#detail)
 5) [La répartition du travail entre nous](#reparti)
-4) [Ce qu'on aurait pu améliorer](#ameliorer)
+4) [Ce qu'on a améliorer depuis l'oral](#ameliorer)
 
 
 ## Le projet : <a id="projet"></a>
@@ -75,6 +75,6 @@ Controles : Mathis
 README : Mathis
 
 
-## Ce qu'on aurait pu améliorer : <a id="ameliorer"></a>
+## Ce qu'on a améliorer depuis l'oral : <a id="ameliorer"></a>
 
-* WIP
+Le fichiers CreaGrille.cs a été modifier pour canger la technique de création de la grille.     

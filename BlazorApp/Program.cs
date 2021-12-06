@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using System.Collections;
 
 namespace BlazorApp{
     public class Program
@@ -13,7 +14,7 @@ namespace BlazorApp{
         public static void Main(string[] args)
         {
             var CreaGrille = new CreaGrille();
-            List<List<int>> CreaGrilleTest = CreaGrille.CreationGrille(10, 20);
+            ArrayList CreaGrilleTest = CreaGrille.CreationGrille(10, 20);
             CreateHostBuilder(args).Build().Run();
 
         }
