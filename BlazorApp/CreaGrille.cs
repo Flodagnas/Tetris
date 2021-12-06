@@ -1,14 +1,16 @@
+using System.Collections;
+
 namespace BlazorApp{
     public class CreaGrille{
         public int Largeur = 10;
         public int Hauteur = 20;
 
-        public static List<List<int>> CreationGrille(int Largeur, int Hauteur){            
-            List<List<int>> Grille = new List<List<int>>();
+        public static ArrayList CreationGrille(int Largeur, int Hauteur){            
+            var Grille = new ArrayList();
             for(int i = 0; i < Hauteur; i++){
-                List<int> ligne = new List<int>();
+                var ligne = new ArrayList();
                 for(int j = 0; j < Largeur; j++){
-                    
+                        
                 }
                 Grille.Add(ligne);
             }
