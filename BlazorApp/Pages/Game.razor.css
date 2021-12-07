@@ -1,10 +1,14 @@
-#case {
-    width: 25px;
-    height: 25px;
-    border: 2px solid;
-    border-color: rgb(8, 149, 243);
-}
-
 .boutons{
     background-position: bottom;
+}
+
+#test{
+    width: 23px;
+    height: 23px;
+    border: 1px solid;
+    border-color: rgb(8, 149, 243);
+}
+#grille{
+    background-color: rgba(0, 0, 0, 0.13);
+    width: 230px;
 }

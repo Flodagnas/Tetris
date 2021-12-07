@@ -1,13 +1,29 @@
 /* _content/BlazorApp/Pages/Game.razor.rz.scp.css */
-#case[b-4287ovot8c] {
-    width: 25px;
-    height: 25px;
-    border: 2px solid;
-    border-color: rgb(8, 149, 243);
-}
-
 .boutons[b-4287ovot8c]{
     background-position: bottom;
+}
+
+#test[b-4287ovot8c]{
+    width: 23px;
+    height: 23px;
+    border: 1px solid;
+    border-color: rgb(8, 149, 243);
+}
+#grille[b-4287ovot8c]{
+    background-color: rgba(0, 0, 0, 0.13);
+    width: 230px;
+}
+/* _content/BlazorApp/Pages/Option.razor.rz.scp.css */
+#vitesse[b-guwwh684ar]{
+    float: left;
+}
+
+#taille[b-guwwh684ar]{
+    float: right;
+}
+
+h2[b-guwwh684ar]{
+    position: center;
 }
 /* _content/BlazorApp/Shared/MainLayout.razor.rz.scp.css */
 .page[b-3dsd3z3yec] {

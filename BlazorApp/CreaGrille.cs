@@ -8,8 +8,10 @@ namespace BlazorApp{
             for(int i = 0; i < Hauteur; i++){
                 List<int> ligne = new List<int>();
                 for(int j = 0; j < Largeur; j++){
-            
+                    ligne.Add(0);
+                    Console.Write(ligne[j]);
                 }
+                Console.WriteLine();
                 Grille.Add(ligne);
             }
             return Grille;
