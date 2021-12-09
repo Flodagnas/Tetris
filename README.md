@@ -78,3 +78,5 @@ README : Mathis
 ## Ce qu'on a améliorer depuis l'oral : <a id="ameliorer"></a>
 
 Le fichiers CreaGrille.cs a été modifier pour canger la technique de création de la grille.     
+Création de la fonction PlacePiece() dans le fichier CreaGrille.cs.     
+
