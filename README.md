@@ -1,4 +1,4 @@
-# GROUPIE_TRACKER
+# Projet TETRIS
 
 
 Travail de groupe :  Florian / Mathias / Mathis
