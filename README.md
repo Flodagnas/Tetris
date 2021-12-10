@@ -17,7 +17,7 @@ Le lien du github de notre projet : https://github.com/Flodagnas/Tetris/tree/mai
 ## Le projet : <a id="projet"></a>
 
 
-C'est un travail de groupe dans lequel nous avons dû coder en C#, en HTML et en CSS. Le but était de créer via blazor un tetris jouable. Nous avions 2 semaines pour réaliser un tetris avec son menu, avec les caractéristiques suivantes :
+C'est un travail de groupe dans lequel nous avons dû coder en C#, en HTML et en CSS. Le but était de créer via blazor un tetris jouable. Nous avions 3 semaines pour réaliser un tetris avec son menu, avec les caractéristiques suivantes :
 
 - ***Taille de grille***   
     - La grille devait être d'une largeur de 10 cases et d'une hauteur de 20 cases, ou modifiable dans les options.
@@ -30,7 +30,7 @@ C'est un travail de groupe dans lequel nous avons dû coder en C#, en HTML et en
 ## Son intérêt : <a id="interet"></a>
 
 
-Tetris, aujourd'hui encore l'un des jeu les plus vendu du monde, derrière minecraft et GTA V. L'intérêt donc de ce tetris est donc simple: s'amuser, en sélectionnant son niveau de difficulté pour ne trouver le jeu ni trop simple ni trop dur. 
+Tetris, aujourd'hui encore l'un des jeu les plus vendu du monde, derrière minecraft. L'intérêt donc de ce tetris est donc simple: s'amuser, en sélectionnant son niveau de difficulté pour ne trouver le jeu ni trop simple ni trop dur. 
 
 
 ## Son utilisation : <a id="utilisation"></a>
@@ -44,7 +44,7 @@ Une fois arrivé sur le site, vous pouvez comme bon vous semble choisir entre jo
 Ainsi, si vous cliquer sur crédits, vous tomberez sur les informations suivantes, avec la possibilité de revenir en arrière:
 ![image](https://cdn.discordapp.com/attachments/408320873876160522/915990453281763458/unknown.png)
 
-Et voila, vous pouvez maintenant une fois prêt cliquer sur "Jouer" pour lancer une partie!
+Et voila, vous pouvez maintenant une fois prêt cliquer sur "Jouer" pour lancer le prototype:
 ![image](https://cdn.discordapp.com/attachments/408320873876160522/915994840762843136/unknown.png)
 
 
@@ -64,13 +64,9 @@ Enfin, la partie C# ce trouve à la racine du dossier "/BlazorApp". C'est ici qu
 
 Grille : Florian
 
-Musique (BONUS) : Florian
-
-CSS : Florian et Mathias
+CSS : Florian, Mathis et Mathias
 
 Diagramme : Mathias
-
-Controles : Mathis
 
 README : Mathis
 
