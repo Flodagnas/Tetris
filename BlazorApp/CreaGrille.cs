@@ -21,8 +21,9 @@ namespace BlazorApp{
             int HauteurPiece = Hauteur;
             for(int i = 0; i < block.GetLength(i); i++){
                 for(int j = 0; j < block.GetLength(j); j++){
-                    Grille[Largeur][Hauteur] = block[i,j];
-                    Hauteur++;
+                    int[,] Test = {{Largeur, HauteurPiece}};
+                    Grille = block[i,j];
+                    HauteurPiece--;
                 }
                 Largeur++;
                 Hauteur = HauteurPiece;
