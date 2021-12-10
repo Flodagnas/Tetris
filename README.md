@@ -79,4 +79,4 @@ README : Mathis
 
 Le fichiers CreaGrille.cs a été modifier pour changer la technique de création de la grille.     
 Création de la fonction PlaceBlock() dans le fichier CreaGrille.cs.     
-
+Tentative de faire apparaitre une pièce (sans succès).
